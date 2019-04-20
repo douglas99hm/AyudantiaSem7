@@ -1,0 +1,25 @@
+input[type=text],input[type=number]{
+    font-family: arial;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+input:focus{
+    font-family: arial;
+    background-color: lightgrey;
+    color: black;
+    font-weight: bold;
+}
+
+label{
+    font-size: 24px;
+    color: black;
+    background-color: red;
+    font-weight: bold;
+    padding: 4px 4px
+}
+
+
+
+
